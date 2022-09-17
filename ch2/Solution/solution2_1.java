@@ -1,5 +1,5 @@
 // 给出汉字 “你” “我” “他” 在 Unicode 表中的位置
-public class solution4_1 {
+public class solution2_1 {
     public static void main(String args[]) {
         char you, me, he;
         you = '你';

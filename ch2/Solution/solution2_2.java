@@ -1,6 +1,6 @@
 // 输出全部的希腊字母
 
-public class solution4_2 {
+public class solution2_2 {
     public static void main(String args[]) {
         char ch;
         char begin, end;
