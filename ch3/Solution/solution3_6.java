@@ -1,3 +1,5 @@
+//编写应用程序，输出满足 1+2+3+…+n < 8888 的最大正整数 n
+
 public class solution3_6 {
     public static void main(String args[]) {
         int n = 8888, sum = 0;

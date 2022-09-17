@@ -1,4 +1,4 @@
-// do-while 
+// do-while 计算 1 + 1/2! + 1/3! + … 的前 20 项和
 public class solution3_3a {
     public static void main(String args[]) {
         double sum = 0;

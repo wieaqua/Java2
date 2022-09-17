@@ -1,3 +1,4 @@
+// 编写应用程序求 1000 之内的所有完数
 public class solution3_4 {
     public static void main(String args[]) {
         int n = 1000, i = 1, sum = 0;

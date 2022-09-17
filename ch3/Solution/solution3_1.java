@@ -1,3 +1,6 @@
+/*
+ 编写应用程序求 1!+2!+…+10!
+ */
 public class solution3_1 {
     public static void main(String args[]) {
 

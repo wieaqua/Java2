@@ -1,4 +1,4 @@
-// for 
+// for 计算 1 + 1/2! + 1/3! + … 的前 20 项和
 
 public class solution3_3b {
     public static void main(String args[]) {
