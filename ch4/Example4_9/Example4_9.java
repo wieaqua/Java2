@@ -1,5 +1,3 @@
-import javax.management.modelmbean.ModelMBeanInfo;
-
 public class Example4_9 {
     public static void main(String args[]) {
         SIM simOne = new SIM(13889776509L);
