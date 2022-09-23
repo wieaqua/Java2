@@ -1,4 +1,4 @@
-public class E2 {
+public class R2 {
     public static void main(String args[]) {
         char c = '\0';
         for (int i = 1; i <= 4; i++) {

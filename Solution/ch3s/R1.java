@@ -1,5 +1,5 @@
 
-public class E1 {
+public class R1 {
     public static void main(String args[]) {
         char x = '你', y = 'e', z = '吃';
         if (x > 'A') {
