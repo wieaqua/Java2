@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class: moon.star.TestOne moon.star.TestTwo
+Created-By: aqua
