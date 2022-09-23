@@ -1,4 +1,5 @@
-public class E3_5 {
+// 第三题第5小题
+public class R5 {
     public static void main(String args[]) {
         int[] a = { 10, 20, 30, 40 }, b[] = { { 1, 2 }, { 4, 5, 6, 7 } };
         b[0] = a;
