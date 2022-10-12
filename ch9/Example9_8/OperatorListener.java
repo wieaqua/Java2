@@ -2,10 +2,10 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class OperatorListener implements ItemListener {
-    JComboBox choice;
+    JComboBox<String> choice;
     ComputerListener workTogether;
 
-    public void setJComboBox(JComboBox box) {
+    public void setJComboBox(JComboBox<String> box) {
         choice = box;
     }
 
