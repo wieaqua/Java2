@@ -95,7 +95,7 @@ public class Hua_Rong_Road extends JFrame implements MouseListener, KeyListener,
     public void mouseReleased(MouseEvent e) {
     }
 
-    public void mouseEnetered(MouseEvent e) {
+    public void mouseEntered(MouseEvent e) {
     }
 
     public void mouseExited(MouseEvent e) {
