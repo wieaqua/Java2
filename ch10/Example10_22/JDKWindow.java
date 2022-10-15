@@ -41,6 +41,7 @@ public class JDKWindow extends JFrame {
                 File file = new File("c:/windows", "Notepad.ext");
                 try {
                     ce.exec(file.getAbsolutePath());
+                    // The method exec(String) from the type Runtime is deprecated since version 18
                 } catch (Exception exp) {
                 }
             } else if (e.getSource() == compile) {

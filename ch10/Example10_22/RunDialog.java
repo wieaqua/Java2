@@ -23,7 +23,7 @@ public class RunDialog extends JDialog {
             int n;
             boolean bn = true;
             byte mess[] = new byte[100];
-            while ((n = bin.read(mess, 0, n)) != -1) {
+            while ((n = bin.read(mess, 0, 100)) != -1) {
                 String s = null;
                 s = new String(mess, 0, n);
                 showOut.append(s);
