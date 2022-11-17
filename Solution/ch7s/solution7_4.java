@@ -8,8 +8,8 @@ public class solution7_4 {
         // boolean judge;
         while (reader.hasNextDouble()) {
             double x = reader.nextDouble();
-            // assert (x <= 100 || x > 0) : "成绩错误";
-            assert x < 100 : "成绩错误";
+
+            assert (x < 100 && x >= 0) : "成绩输入错误";
             m = m + 1;
             sum = sum + x;
         }
